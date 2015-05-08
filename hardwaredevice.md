@@ -59,6 +59,7 @@
 - 基本要求
      - 对硬件的通讯方式没有要求，需要自己调通手机到设备的连接部分。
         - 拥有一个iOS或者Android的应用可以用于控制自己的硬件
+        - 或者你是一个android 4.3及以上系统的智能设备，比如智能电视盒。
         - 花一些时间将[bong SDK](https://github.com/Ginshell/bongOpenPlatform#bong%E6%97%A0%E7%BA%BF%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0)接入你的APP
 - 申请流程
     - [提交申请](http://www.mikecrm.com/f.php?t=5FJFxc)
