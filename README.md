@@ -3,7 +3,7 @@
 欢迎你加入 bong 开放平台的大部落，对于每一位开发者我们都倍感珍贵。不需要掌握硬件知识和拥有专业设备，你就可以学习和运用通过传感器全时监测所获得前所未有的海量身体数据，开发出真正把虚拟带入现实的各种有趣应用，并且通过这些应用去改善你所关心的人们的生活。第三方应用将内嵌到 bong iOS 和 Android 软件中，每一位 bong 用户均可以访问到这些应用。
 
 - **此文档适合无线应用和web应用查看**
-- **无线应用**请查看[**android SDK 文档**] 和 [**iOS SDK 文档**]
+- **无线应用**请查看[**android SDK 文档**] (https://github.com/Ginshell/bongSDK-android)和 [**iOS SDK 文档**](https://github.com/Ginshell/bongSDK-iOS)
 - **如果你有一款腕部设备希望使用bong的算法，请查看[《bong腕部设备接入》](https://github.com/Ginshell/bongOpenPlatform/blob/master/waistdevice.md)**
 - **如果你有一款硬件希望和bong支持的腕部设备进行互动，请查看[《bong第三方硬件设备接入》](https://github.com/Ginshell/bongOpenPlatform/blob/master/hardwaredevice.md)**
 - 如果你对我们的开发文档**有疑惑**：[请向我们提问](https://github.com/Ginshell/bongOpenPlatform/issues/new)
