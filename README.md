@@ -4,7 +4,6 @@
 
 - **此文档适合无线应用和web应用查看**
 - **无线应用**请查看[**android SDK 文档**] (https://github.com/Ginshell/bongSDK-android)和 [**iOS SDK 文档**](https://github.com/Ginshell/bongSDK-iOS)
-- **如果你有一款腕部设备希望使用bong的算法，请查看[《bong腕部设备接入》](https://github.com/Ginshell/bongOpenPlatform/blob/master/waistdevice.md)**
 - **如果你有一款硬件希望和bong支持的腕部设备进行互动，请查看[《bong第三方硬件设备接入》](https://github.com/Ginshell/bongOpenPlatform/blob/master/hardwaredevice.md)**
 - 如果你对我们的开发文档**有疑惑**：[请向我们提问](https://github.com/Ginshell/bongOpenPlatform/issues/new)
 - 提问前可以先**搜索你的问题**：[搜索已解决的问题](https://github.com/Ginshell/bongOpenPlatform/search?utf8=%E2%9C%93&q=%E8%BE%93%E5%85%A5%E4%BD%A0%E7%9A%84%E9%97%AE%E9%A2%98&type=Issues)
