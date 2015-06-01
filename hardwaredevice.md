@@ -48,7 +48,7 @@
         - 蓝牙主设备
         - 需要更新固件支持《bong通讯与控制协议》（签署协议后可获得）
 - 申请流程
-    - [提交申请](http://www.mikecrm.com/f.php?t=5FJFxc)
+    - [提交申请](https://www.jinshuju.net/f/6sL2Pj)
     - 等待审核结果，我们会在1-3个工作日内完成审核
     - 审核通过，我们会联系你，签署协议，并提供更为详细的接入方案
 
@@ -59,7 +59,7 @@
         - 或者你是一个android 4.3及以上系统的智能设备，比如智能电视盒。
         - 花一些时间将[bong SDK](https://github.com/Ginshell/bongOpenPlatform#bong%E6%97%A0%E7%BA%BF%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0)接入你的APP
 - 申请流程
-    - [提交申请](http://www.mikecrm.com/f.php?t=5FJFxc)
+    - [提交申请](https://www.jinshuju.net/f/6sL2Pj)
     - 等待审核结果，我们会在1-3个工作日内完成审核
     - 审核通过，我们会联系你，签署协议，并提供更为详细的接入方案
 
@@ -73,6 +73,9 @@
  - 接入条件：
   - 需要你的硬件有一个iOS或android的APP
   - 你准备提醒和通知用户的功能是通过手机消息推送发送的
-
+- 申请流程
+    - [提交申请](https://www.jinshuju.net/f/6sL2Pj)
+    - 等待审核结果，我们会在1-3个工作日内完成审核
+    - 审核通过，我们会联系你，签署协议，并提供更为详细的接入方案
 ##### 案例
 - 嘘嘘扣
