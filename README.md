@@ -4,21 +4,12 @@
 
 - **此文档适合无线应用和web应用查看**
 - **无线应用**请查看[**android SDK 文档**] (https://github.com/Ginshell/bongSDK-android)和 [**iOS SDK 文档**](https://github.com/Ginshell/bongSDK-iOS)
-- **如果你有一款硬件希望和bong支持的腕部设备进行互动，请查看[《bong第三方硬件设备接入》](https://github.com/Ginshell/bongOpenPlatform/blob/master/hardwaredevice.md)**
+- **如果你有一款硬件希望和bong支持的腕部设备进行互动，请联系jinjia@bong.cn，互动场景请查看[bong官网合作页面](http://bong.cn/share)**
 - 如果你对我们的开发文档**有疑惑**：[请向我们提问](https://github.com/Ginshell/bongOpenPlatform/issues/new)
 - 提问前可以先**搜索你的问题**：[搜索已解决的问题](https://github.com/Ginshell/bongOpenPlatform/search?utf8=%E2%9C%93&q=%E8%BE%93%E5%85%A5%E4%BD%A0%E7%9A%84%E9%97%AE%E9%A2%98&type=Issues)
 
-###加入开发者计划
-Step 1: 提交申请 
-任何对 bong 有兴趣的开发者都可以申请完全免费的开发者计划。点此立即[申请成为开发者](http://www.mikecrm.com/f.php?t=5FJFxc)。
-**请注意：蓝牙数据同步功能只是为了不打开bong APP同步而设计的，返回的结果是bong云端算法的计算结果，与bong APP的数据一致。无法拿到bong的传感器原始数据!**
-
-Step 2：审核
-请耐心等待1-4个工作日。
-
-Step 3：获得token
-经过认证后，即可成为 bong 开放平台的开发者，获得授权开发者头衔，提前享受最新最火热的内测消息。我们更提供创意支持（用户投票的 [bong 原型菜园](http://openbong.lofter.com)），测试用户募集，用户调研，运营支持等全方位免费配套的服务，帮助你在快速成长的 bong 平台上获得成功。
-
+###与我们合作
+现在bong可以通过SDK提供互联和数据共享的服务给合作伙伴，请将你的合作请求发送给 jinjia@bong.cn
 
 ###关于bong
 bong 是世界上第一个能够全自动识别你的运动和睡眠状态的手环，只要佩戴在手腕上，无需手动切换识别状态。更重要的是，续航能力长达四周，省去频繁充电的烦恼，而且佩戴无感，不会有卡手的感觉。现在 bong 更进一步，通过开放接口与第三方应用开发者实现合作共赢，帮助你在可穿戴设备的第一波浪潮中抢得先机。
